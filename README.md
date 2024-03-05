@@ -6,12 +6,12 @@
 <p>&nbsp;</p>
 
 <h2>🛠️ How to run</h2>
-<p></p>
+
 ```
 npm run dev
 ```
 
-![Example Image](https://a/)
+![Example Image](https://github.com/LightningReflex/Snapchat-Chat-Viewer/blob/main/images/example.jpg?raw=true))
 <p>&nbsp;</p>
 
 <h2>💖 Support?</h2>
