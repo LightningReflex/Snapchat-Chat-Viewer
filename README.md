@@ -11,7 +11,7 @@
 npm run dev
 ```
 
-![Example Image](https://github.com/LightningReflex/Snapchat-Chat-Viewer/blob/main/images/example.jpg?raw=true))
+![Example Image](https://github.com/LightningReflex/Snapchat-Chat-Viewer/blob/main/images/example.png?raw=true)
 <p>&nbsp;</p>
 
 <h2>💖 Support?</h2>
